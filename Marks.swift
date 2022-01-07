@@ -1,12 +1,11 @@
 //
-// The "Marks" program it marks assignments and 
-// creates csv file with it.
+//  Marks.swift
 //
-// @author  Ahmad El-khawaldeh
-// @version 1.0
-// @since   2021-12-04
+//  Created by Ahmad El-khawaldeh
+//  Created on 2020-01-01
+//  Version 1.0
+//  Copyright (c) 2020 MTHS. All rights reserved.
 //
-
 
 import Foundation
 
